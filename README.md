@@ -7,4 +7,4 @@
 ## TODO
 
 📁 **cheatsheets** : Des cheatsheets contenant des listes de commandes
-  * A classer par système et sujet, par ex: Linux_SysAdmin ou Windows_SysAdmin
+   * A classer par système et sujet, par ex: Linux_SysAdmin ou Windows_SysAdmin
